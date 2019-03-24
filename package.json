@@ -1,0 +1,27 @@
+{
+  "name": "easycard",
+  "version": "1.0.0",
+  "description": "A package for easily creating customizable decks of cards",
+  "main": "easycard.js",
+  "scripts": {
+    "test": "echo No tests yet."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniFoldi/easycard.git"
+  },
+  "keywords": [
+    "card",
+    "deck",
+    "shuffle",
+    "deal"
+  ],
+  "author": "Dániel Földi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaniFoldi/easycard/issues"
+  },
+  "homepage": "https://github.com/DaniFoldi/easycard#readme",
+  "readmeFilename": "README.md",
+  "runkitExampleFilename": "example.js"
+}
